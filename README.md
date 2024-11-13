@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## R&D and Software Manager, LM Group
 <!--
 **mororko/mororko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

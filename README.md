@@ -1,5 +1,6 @@
 ## R&D and Software Manager, LM Group
 
+<!--
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -9,7 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
 
-<!--
+
 **mororko/mororko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

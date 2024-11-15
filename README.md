@@ -1,6 +1,11 @@
 ## 🤖 R&D and Software Manager, LM Group
 
-# Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.
+## Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.
+
+
+## 🛠️ Tecnologías y herramientas
+
+
 
 <!--
 

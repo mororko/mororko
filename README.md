@@ -9,6 +9,10 @@ Ingeniero con más de 5 años de experiencia en gestión de proyectos de robóti
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Automatas](https://img.shields.io/badge/-Automatas-FF5733?style=flat&logo=gear&logoColor=white)
+
 
 🤖 **Descripción rápida:**  
 - **Python**: Programación general, scripts y desarrollo de aplicaciones y videojuegos.  

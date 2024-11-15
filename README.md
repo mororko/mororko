@@ -6,13 +6,13 @@ Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **ro
 
 ## 🛠️ Tecnologías y herramientas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Codesys](https://img.shields.io/badge/-Codesys-00549F?style=flat&logo=codesys&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)](https://www.ros.org/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)](https://www.solidworks.com/es)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://es.overleaf.com/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Codesys](https://img.shields.io/badge/-Codesys-00549F?style=flat&logo=codesys&logoColor=white)](https://www.codesys.com/)
 
 ---
 

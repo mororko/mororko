@@ -1,6 +1,6 @@
 # 🤖 R&D and Software Manager, LM Group
 
-## Ingeniero con más de 5 años de experiencia en gestión de proyectos de robótica y automatización industrial, especializado en el diseño, implementación y despliegue de soluciones tecnológicas en entornos de logística e industria 4.0. Actualmente lidero el departamento de I+D y Software en LM Group, desarrollando robots móviles autónomos (AMRs) y sistemas de visión artificial. 
+Ingeniero con más de 5 años de experiencia en gestión de proyectos de robótica y automatización industrial, especializado en el diseño, implementación y despliegue de soluciones tecnológicas en entornos de logística e industria 4.0. Actualmente lidero el departamento de I+D y Software en LM Group, desarrollando robots móviles autónomos (AMRs) y sistemas de visión artificial. 
 
 
 ### 🛠️ Tecnologías y herramientas

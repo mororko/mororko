@@ -1,5 +1,5 @@
 
-![TechBrews](https://raw.githubusercontent.com//mororko/mororko/blob/main/TechBrews.png)
+![TechBrews](https://github.com/mororko/mororko/blob/main/TechBrews.png)
 
 # 🤖 R&D and Software Manager, LM Group
 

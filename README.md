@@ -11,7 +11,8 @@ Ingeniero con más de 5 años de experiencia en gestión de proyectos de robóti
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Automatas](https://img.shields.io/badge/-Automatas-FF5733?style=flat&logo=gear&logoColor=white)
+![Codesys](https://img.shields.io/badge/-Codesys-00549F?style=flat&logo=codesys&logoColor=white)
+
 
 
 🤖 **Descripción rápida:**  

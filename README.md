@@ -2,10 +2,7 @@
 ![TechBrews](https://github.com/mororko/mororko/blob/main/TechBrews.png)
 -->
 
-<img src="https://github.com/mororko/mororko/blob/main/TechBrews.png" alt="TechBrews" width="600px" height="auto" />
-
-
-# 🤖 R&D and Software Manager, LM Group
+# <img src="https://github.com/mororko/mororko/blob/main/TechBrews.png" alt="TechBrews" width="50px" height="auto" /> R&D and Software Manager, LM Group
 
 Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **robótica** y **automatización industrial**, especializado en el diseño, implementación y despliegue de soluciones tecnológicas en entornos de **logística** e **industria 4.0**. Actualmente, lidero el departamento de **I+D** y **Software** en **LM Group**, desarrollando **robots móviles autónomos (AMRs)**, sistemas de **visión artificial** y **soluciónes de almacenamiento**.
 

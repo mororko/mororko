@@ -20,6 +20,9 @@ Ingeniero con más de 5 años de experiencia en gestión de proyectos de robóti
 - **ROS**: Robótica y simulaciones.  
 - **Arduino**: Electrónica y prototipado.  
 - **SolidWorks**: Diseño y modelado 3D.
+- **LaTeX**: Creación de documentos.
+- **OpenCV**: Sistemas de visión Artificial.
+- **Codesys**: Programación de Automatas.
 
 
 

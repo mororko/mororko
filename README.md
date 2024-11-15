@@ -1,24 +1,20 @@
 # 🤖 R&D and Software Manager, LM Group
 
-## Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.
+## Ingeniero con m´as de 5 a˜nos de experiencia en gesti´on de proyectos de robótica y automatización industrial, especializado en el diseño, im-
+plementación y despliegue de soluciones tecnológicas en entornos de logística e industria 4.0. 
 
-## 🛠️ Tecnologías y herramientas
+Actualmente lidero el departamento de I+D y Software en LM Group, desarrollando robots móviles autónomos (AMRs) y sistemas de visión artificial. 
+
+
+### 🛠️ Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)  
-
-
-
-
 🤖 **Descripción rápida:**  
-- **Python**: Programación general, scripts y desarrollo de aplicaciones.  
+- **Python**: Programación general, scripts y desarrollo de aplicaciones y videojuegos.  
 - **ROS**: Robótica y simulaciones.  
 - **Arduino**: Electrónica y prototipado.  
 - **SolidWorks**: Diseño y modelado 3D.

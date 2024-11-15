@@ -29,6 +29,6 @@ Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **ro
 ---
 
 ## 💬 ¡Conectemos!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/diego-mora-herreros-b25454ba)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-mora-herreros-b25454ba)
 
 

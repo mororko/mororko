@@ -16,7 +16,7 @@ Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **ro
 
 ---
 
-## 🤖 **Descripción rápida de mis habilidades:**
+## 💡 **Descripción rápida de mis habilidades:**
 
 - **Python**: Desarrollo de aplicaciones, scripts, y videojuegos.
 - **ROS**: Desarrollo de soluciones robóticas, simulaciones y sistemas autónomos.

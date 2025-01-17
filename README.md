@@ -17,6 +17,10 @@ Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **ro
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://es.overleaf.com/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Codesys](https://img.shields.io/badge/-Codesys-00549F?style=flat&logo=codesys&logoColor=white)](https://www.codesys.com/)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
 
 ---
 

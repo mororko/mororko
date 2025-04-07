@@ -35,13 +35,17 @@ Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **ro
 
 ## 💡 **Descripción rápida de mis habilidades:**
 
-- **Python**: Desarrollo de aplicaciones, scripts, y videojuegos.
-- **ROS**: Desarrollo de soluciones robóticas, simulaciones y sistemas autónomos.
+- **Python**: Desarrollo de scripts, automatización de procesos, aplicaciones backend y prototipos rápidos para proyectos de I+D así como videojuegos.
+- **ROS / ROS2**: Desarrollo de soluciones robóticas, simulaciones y sistemas autónomos.
 - **Arduino**: Creación de prototipos electrónicos y controladores.
-- **SolidWorks**: Diseño y modelado 3D de componentes industriales.
+- **SolidWorks**: Diseño y modelado 3D de componentes industriales y sistemas robóticos.
+- **OpenCV**: Implementación de algoritmos de visión artificial para inspección, reconocimiento y guiado visual.
+- **Codesys**: Programación de PLCs, automatización de maquinaria industrial y desarrollo de interfaces HMI.
+- **Flask / Django**: Creación de APIs REST, servicios web y dashboards.
+- **Streamlit**: Desarrollo rápido de herramientas de visualización de datos e interfaces para pruebas de concepto en proyectos de I+D.
+- **React / HTML / CSS / JavaScript / TypeScript**: Diseño de frontends modernos, responsivos y funcionales, integrados con backends personalizados.
+- **Node.js**: Desarrollo de servicios en tiempo real y despliegue de soluciones web escalables.
 - **LaTeX**: Redacción de documentación técnica, informes y artículos.
-- **OpenCV**: Desarrollo de sistemas de visión artificial para inspección y automatización.
-- **Codesys**: Programación de autómatas industriales para automatización.
 
 ---
 

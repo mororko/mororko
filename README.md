@@ -4,7 +4,9 @@
 
 # <img src="https://github.com/mororko/mororko/blob/main/Avatar.png" alt="TechBrews" width="50px" height="auto" /> R&D and Software Manager, LM Group
 
-Ingeniero con más de 5 años de experiencia en la gestión de proyectos de **robótica** y **automatización industrial**, especializado en el diseño, implementación y despliegue de soluciones tecnológicas en entornos de **logística** e **industria 4.0**. Actualmente, lidero el departamento de **I+D** y **Software** en **LM Group**, desarrollando **robots móviles autónomos (AMRs)**, sistemas de **visión artificial** y **soluciónes de almacenamiento**.
+
+**Ingeniero con más de 5 años de experiencia** en robótica y automatización industrial, combinando **habilidades prácticas de programación** con **liderazgo en I+D**. **Apasionado por el desarrollo de software**, diseño y programo activamente soluciones que involucran **robots autónomos**, **sistemas de visión** y **plataformas web**. Con experiencia tanto en **desarrollo de software práctico** como en la **dirección de equipos multidisciplinares** en proyectos de robótica y automatización. Especializado en el **diseño y programación de sistemas** utilizando **Python, ROS, OpenCV y C/C#**, al mismo tiempo que **gestiono contratistas** y garantizo **entregas puntuales y de alta calidad**. Sólida trayectoria en **planificación estratégica** y **ejecución técnica**, con una fuerte motivación por construir **soluciones escalables e innovadoras**.
+
 
 ---
 

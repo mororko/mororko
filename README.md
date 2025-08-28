@@ -2,7 +2,7 @@
 ![TechBrews](https://github.com/mororko/mororko/blob/main/TechBrews.png)
 -->
 
-# <img src="https://github.com/mororko/mororko/blob/main/Avatar.png" alt="TechBrews" width="50px" height="auto" /> R&D and Software Manager, LM Group
+# <img src="https://github.com/mororko/mororko/blob/main/Avatar.png" alt="TechBrews" width="50px" height="auto" /> Tech & Innovation | Robotic, Software and R&D | Full Stack | Penetration Tester Jr.
 
 
 **Ingeniero con más de 5 años de experiencia** en robótica y automatización industrial, combinando **habilidades prácticas de programación** con **liderazgo en I+D**. **Apasionado por el desarrollo de software**, diseño y programo activamente soluciones que involucran **robots autónomos**, **sistemas de visión** y **plataformas web**. Con experiencia tanto en **desarrollo de software práctico** como en la **dirección de equipos multidisciplinares** en proyectos de robótica y automatización. Especializado en el **diseño y programación de sistemas** utilizando **Python, ROS, OpenCV y C/C#**, al mismo tiempo que **gestiono contratistas** y garantizo **entregas puntuales y de alta calidad**. Sólida trayectoria en **planificación estratégica** y **ejecución técnica**, con una fuerte motivación por construir **soluciones escalables e innovadoras**.
